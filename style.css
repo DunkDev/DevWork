@@ -10,3 +10,12 @@ body {
     font-family: "Courier New", Courier, monospace;
     }
      
+    #outerContainer{
+
+        background-color: beige;
+    }
+
+    #innerContainer {
+
+        background-color: darkkhaki;
+    }
